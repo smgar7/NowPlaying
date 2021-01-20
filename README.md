@@ -1,7 +1,11 @@
 # NowPlaying
 A desktop tool to help DJs determine their current track being played on Serato so that it can be displayed during their livestreaming sets.
 
-**Windows version** - Click [here](https://github.com/smgar7/NowPlaying/releases/tag/win32-v1.0.1-beta.1) to view the download page (zip)]
+# Downloads
+* **Windows beta version:** [NowPlayingApp-win32-x64v1.0.1.zip](https://github.com/smgar7/NowPlaying/releases/download/NowPlaying-v1.0.1-beta.2/NowPlayingApp-win32-x64v1.0.1.zip)
+* **Mac beta version:** [NowPlayingApp.-.Mac.OS.zip](https://github.com/smgar7/NowPlaying/releases/download/NowPlaying-v1.0.1-beta.2/NowPlayingApp.-.Mac.OS.zip)
+
+
 
 
 # Announcements
